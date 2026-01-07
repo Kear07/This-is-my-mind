@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"58d051f8aaa47ee1","x":-850,"y":-265,"width":80,"height":50,"type":"text","text":"User"},
+		{"id":"15c08c81d8dd401b","type":"text","text":"Guard Rail\n","x":-880,"y":30,"width":140,"height":50},
+		{"id":"be5874cbd8529186","type":"text","text":"Resposta ","x":-460,"y":-265,"width":124,"height":50},
+		{"id":"d1e0f1c07824ea7c","type":"text","text":"Ia","x":-460,"y":175,"width":120,"height":50},
+		{"id":"520cfd814bcdb65d","type":"text","text":"Few Shots","x":-202,"y":310,"width":125,"height":50},
+		{"id":"1bee8c0c1d2ff49d","type":"text","text":"System Prompt","x":-220,"y":230,"width":158,"height":50},
+		{"id":"871f70b3650a8c32","x":-190,"y":130,"width":101,"height":50,"type":"text","text":"History"},
+		{"id":"98d2d5681252313e","x":-218,"y":55,"width":157,"height":50,"type":"text","text":"Banco de dados "}
+	],
+	"edges":[
+		{"id":"a096df6ac0c930bb","fromNode":"58d051f8aaa47ee1","fromSide":"bottom","toNode":"15c08c81d8dd401b","toSide":"top","label":"Validação de requisição "},
+		{"id":"d13e0c22f98500f0","fromNode":"d1e0f1c07824ea7c","fromSide":"right","toNode":"1bee8c0c1d2ff49d","toSide":"left"},
+		{"id":"54696ee7204d5781","fromNode":"d1e0f1c07824ea7c","fromSide":"right","toNode":"871f70b3650a8c32","toSide":"left"},
+		{"id":"206b0933b5395c5c","fromNode":"15c08c81d8dd401b","fromSide":"bottom","toNode":"d1e0f1c07824ea7c","toSide":"left","label":"Aprovado"},
+		{"id":"cad5e79f80262f93","fromNode":"d1e0f1c07824ea7c","fromSide":"top","toNode":"be5874cbd8529186","toSide":"bottom"},
+		{"id":"975fd7447aeac1e6","fromNode":"be5874cbd8529186","fromSide":"top","toNode":"58d051f8aaa47ee1","toSide":"top"},
+		{"id":"b6677d9a111b9526","fromNode":"871f70b3650a8c32","fromSide":"top","toNode":"98d2d5681252313e","toSide":"bottom"},
+		{"id":"7af585f148a45b50","fromNode":"1bee8c0c1d2ff49d","fromSide":"bottom","toNode":"520cfd814bcdb65d","toSide":"top"},
+		{"id":"1bb05525e37c05b8","fromNode":"15c08c81d8dd401b","fromSide":"left","toNode":"58d051f8aaa47ee1","toSide":"left","label":"Recusado"}
+	]
+}

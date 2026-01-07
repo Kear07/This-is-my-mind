@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ff493cd0adf723f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f9804e54c19b987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8271b72da2e05dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mind/DevOps/Git/Comandos bash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comandos bash"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5410cf61db89aa61",
+    "type": "split",
+    "children": [
+      {
+        "id": "1553e9d1ed572140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4367fa409ae0e2cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f8ceaf1462fb5d64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "868c6401ee87c541",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5041847229004
+  },
+  "right": {
+    "id": "c7d5b5017c5e78e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2047930763dd6068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2bf8c971a6edc52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "My mind/Banco de dados/NO SQL/Mongo/Recursos básicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Recursos básicos"
+            }
+          },
+          {
+            "id": "5e6acd12515624b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "My mind/Banco de dados/NO SQL/Mongo/Recursos básicos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Recursos básicos"
+            }
+          },
+          {
+            "id": "9a01a35ff3f37e00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8aa1b949cf46656",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "My mind/Banco de dados/NO SQL/Mongo/Recursos básicos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Recursos básicos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Criar nova base": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d8271b72da2e05dd",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE",
+    "Mind/DevOps/Docker/Comandos.md",
+    "Mind/DevOps/Docker/Scripts.md",
+    "Próximos conteúdos.md",
+    "Índice.canvas",
+    "Mind/API/Spring Boot/8 - DevOps, Profiles e Atuadores.md",
+    "Mind/Linguagens/Python/Essencial/7 - Manipulação de arquivos.md",
+    "Mind/Linguagens/Java/Essencial/1 - Fundamentos.md",
+    "Mind/API/Spring Boot/7 - Testes.md",
+    "Mind/API/Spring Boot/6 - Security.md",
+    "Mind/API/Spring Boot/3 - Web e Controladores (API REST).md",
+    "Mind/API/Spring Boot/2 - Injeção de dependências.md",
+    "Mind/API/Spring Boot/1 - Core e Iniciação.md",
+    "Mind/RPA/Python/PyAutoGui/Comandos.md",
+    "Mind/RPA/Python/Selenium/Comandos.md",
+    "Mind/RPA/Python/PyAutoGui/Pasted image 20250515165850.png",
+    "Mind/Sistemas Operacionais/Linux/Comandos.md",
+    "Mind/Sistemas Operacionais/Linux/permissões especiais.png",
+    "Mind/Sistemas Operacionais/Linux/permissões.png",
+    "Mind/DevOps/Git/Comandos bash.md",
+    "Mind/Banco de dados/NO SQL/Redis/4 - Sorted Sets e Bitmaps.md",
+    "Mind/Banco de dados/NO SQL/Redis/Redis.md",
+    "Mind/Banco de dados/NO SQL/Redis/3 - Lists e Sets.md",
+    "Mind/Banco de dados/NO SQL/Redis/2 - Strings, Hashes e TTL.md",
+    "Mind/Banco de dados/NO SQL/Redis/1 - Comandos e Chaves.md",
+    "Mind/Banco de dados/NO SQL/Neo4j/3 - Escrita e Modificação (DML).md",
+    "Mind/Banco de dados/SQL/Postgres/5 - Otimização e views.md",
+    "Mind/Banco de dados/SQL/Postgres/3 - Funções nativas.md",
+    "Mind/Banco de dados/SQL/Postgres/4 - Consultas avançadas.md",
+    "Mind/IA/Gemini/Mapa de fluxo.canvas",
+    "Mind/IA/Gemini",
+    "Sem título.base",
+    "Mind/IA",
+    "Mind/Linguagens/Python/Outros",
+    "Read-me",
+    "Mind/Sistemas Operacionais/Linux",
+    "Mind/Sistemas Operacionais",
+    "Samp",
+    "Pessoal",
+    "Cérebro/DevOps/Docker/infos ls.png",
+    "Cérebro/Banco de dados/NO SQL/Mongo/Pasted image 20250821152838.png",
+    "Cérebro/Banco de dados/Pasted image 20250821152838.png",
+    "Linux/Pasted image 20250429151708.png",
+    "Linux/Pasted image 20250429151805.png",
+    "My mind/Auxiliares/Docker/Pasted image 20250429155047.png",
+    "Pasted image 20250508161936.png"
+  ]
+}
